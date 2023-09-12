@@ -3,7 +3,7 @@
 ### AAD Secrets
 
 ```bash
-export AAD_TENANT_ID=""
+export AAD_TENANT_ID="common"
 export AAD_CLIENT_ID=""
 export AAD_CLIENT_SECRET=""
 ```
